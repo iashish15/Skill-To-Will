@@ -1,0 +1,147 @@
+.container {
+  color: #0f3759;
+}
+.navigation {
+  color: #0f3759;
+}
+section {
+  margin-top: 15px;
+  margin-bottom: 12rem;
+}
+#all-list {
+  color: #0f3759;
+  /* font-style: Sofia Pro; */
+  font-size: 15px;
+}
+.button-top {
+  font-size: 12px !important;
+  /* color: white important; */
+}
+.div1 {
+  margin-top: 8rem;
+}
+
+.img1 {
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  height: 480px;
+}
+.img2 {
+  position: absolute;
+  top: 3.5rem;
+  right: 2.9rem;
+  height: 350px;
+  margin-right: 50px;
+}
+.img3 {
+  position: absolute;
+  top: 16rem;
+  right: 18rem;
+  height: 8rem;
+}
+.img4 {
+  position: absolute;
+  top: 18.5rem;
+  right: 34.2rem;
+}
+
+.stars1 {
+  color: #f8a51b;
+  list-style: none;
+  position: absolute;
+  display: flex;
+  top: 15rem;
+  right: 30rem;
+  gap: 2px;
+  /* width: 10px;
+  height: 5px; */
+  font-size: 1.5rem;
+}
+
+.button-top,
+.button1,
+.button2 {
+  text-decoration: none;
+  background-color: #f8a51b;
+  padding: 3px 15px 3px 15px;
+  border-radius: 5px;
+  color: white;
+  box-shadow: #00000029 0px 3px 6px;
+  font-size: 16px;
+}
+.button1:hover,
+.button2:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.middle-para {
+  width: 600px;
+  text-align: center;
+  margin-left: 17rem;
+}
+
+/* -----AFTER HERO-PAGE----- */
+
+.part-1 {
+  box-shadow: #00000029 0px 3px 15px;
+  font-size: 19px;
+  border-radius: 10px;
+}
+
+.part-2 {
+  justify-content: space-between;
+}
+
+.h-4 {
+  padding-left: 13px;
+}
+
+.img-sonal {
+  margin-top: 0.6rem;
+  height: 180px;
+  width: 150px;
+}
+.stars2 {
+  color: #f8a51b;
+  list-style: none;
+  position: absolute;
+  display: flex;
+  top: 3.4rem;
+  left: -4.5rem;
+  gap: 2px;
+  font-size: 1rem;
+}
+
+.all-detail {
+  margin-left: -3rem;
+  margin-top: 1rem;
+}
+
+.first-line {
+  gap: 1rem;
+  margin-left: 6.3rem;
+  margin-top: 0.8rem;
+}
+.cyber,
+.c,
+.php {
+  background-color: rgb(197, 202, 211);
+  padding: 0 1rem 0 1rem;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.second-para {
+  border-bottom: 1px solid grey;
+  font-size: 12px;
+  margin-bottom: 5px;
+  /* padding-bottom: -5px; */
+}
+.button2 {
+  margin-left: 3px;
+}
+
+.row {
+  padding: 5px 0 5px 0;
+}
